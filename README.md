@@ -140,4 +140,8 @@ The script will:
 * Larger batch sizes improve training efficiency but may affect generalization
 * Feature maps demonstrate hierarchical feature extraction in CNNs
 
+## Results
+<img width="521" height="354" alt="image" src="https://github.com/user-attachments/assets/4794b390-45e8-45ff-a635-8f002f2f454c" />
+
+
 
